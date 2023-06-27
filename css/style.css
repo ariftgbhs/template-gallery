@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#home-main-section {
+  height: 90%;
+  width: 100%;
+  background-image: url("../images/backgrounds/background-image-home.png");
+  background-size: cover;
+}
+#home-main-section h1 {
+  color: white;
+}
+#home-main-section button {
+  text-transform: uppercase;
+  color: white;
+}
+#home-main-section button:hover {
+  color: black;
+}
+#home-main-section .top-15p {
+  margin-top: 15%;
+}/*# sourceMappingURL=style.css.map */
