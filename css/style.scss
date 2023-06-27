@@ -8,11 +8,12 @@ html, body {
 #home-main-section {
     height: 90%;
     width: 100%;
-    background-image: url('../images/backgrounds/background-image-home.png');
+    background-image: url('../images/backgrounds/background-image-home.jpg');
     background-size: cover;
 
     h1 {
-        color: $primary;
+        color:$primary;
+        
     }
     button {
         text-transform: uppercase;

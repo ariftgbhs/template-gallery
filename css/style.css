@@ -6,11 +6,11 @@ html, body {
 #home-main-section {
   height: 90%;
   width: 100%;
-  background-image: url("../images/backgrounds/background-image-home.png");
+  background-image: url("../images/backgrounds/1.png");
   background-size: cover;
 }
 #home-main-section h1 {
-  color: white;
+  color:white;
 }
 #home-main-section button {
   text-transform: uppercase;
@@ -21,4 +21,12 @@ html, body {
 }
 #home-main-section .top-15p {
   margin-top: 15%;
-}/*# sourceMappingURL=style.css.map */
+  }
+/*# sourceMappingURL=style.css.map */
+.text-center{
+  margin-top: 4%;
+  color: white;
+}
+#h1{
+  color: white;
+}
