@@ -13,6 +13,8 @@ html, body {
 
     h1 {
         color:$primary;
+
+        
         
     }
     button {
@@ -24,6 +26,48 @@ html, body {
     }
 
     .top-15p {
-        margin-top: 15%;
+        margin-top: 22%;
+        margin-left: 35%;
     }
 }
+
+#home-sec-section{
+    height: 29%;
+    width: 100%;
+    //background-image:url('../images/backgrounds/OIP.jpg') ;
+    background-color: black;
+    margin-top: 2%;
+    margin-bottom: 5%;
+
+  
+}
+
+.cont col{
+    width: 50%;
+}
+
+#home-third-section{
+    height: 45%;
+    width: 100%;
+    background-image: url('../images/fonts/circle\ \(1\).png');
+    h1{
+        font-size: 100px;
+        
+    }
+}
+
+#home-fifth-section{
+    height: 80%;
+    width: 100%;
+    margin-top: 10%;
+
+}
+
+#home-six-section{
+    background-color: black;
+    height: 50%;
+    
+
+}
+
+

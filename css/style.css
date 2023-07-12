@@ -6,11 +6,11 @@ html, body {
 #home-main-section {
   height: 90%;
   width: 100%;
-  background-image: url("../images/backgrounds/1.png");
+  background-image: url("../images/backgrounds/background-image-home.jpg");
   background-size: cover;
 }
 #home-main-section h1 {
-  color:white;
+  color: white;
 }
 #home-main-section button {
   text-transform: uppercase;
@@ -20,13 +20,38 @@ html, body {
   color: black;
 }
 #home-main-section .top-15p {
-  margin-top: 15%;
-  }
-/*# sourceMappingURL=style.css.map */
-.text-center{
-  margin-top: 4%;
-  color: white;
+  margin-top: 22%;
+  margin-left: 35%;
 }
-#h1{
-  color: white;
+
+#home-sec-section {
+  height: 29%;
+  width: 100%;
+  background-color: black;
+  margin-top: 2%;
+  margin-bottom: 5%;
 }
+
+.cont col {
+  width: 50%;
+}
+
+#home-third-section {
+  height: 45%;
+  width: 100%;
+  background-image: url("../images/fonts/circle (1).png");
+}
+#home-third-section h1 {
+  font-size: 100px;
+}
+
+#home-fifth-section {
+  height: 80%;
+  width: 100%;
+  margin-top: 10%;
+}
+
+#home-six-section {
+  background-color: black;
+  height: 50%;
+}/*# sourceMappingURL=style.css.map */
